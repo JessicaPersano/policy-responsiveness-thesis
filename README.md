@@ -1,8 +1,6 @@
-# The Determinants of Policy Representation
-### Evaluating the Role of Policy Type in the U.S. States
+# The Determinants of Policy Representation: Evaluating the Role of Policy Type in the U.S. States
 
-**UCLA Political Science Honors Thesis**  
-Jessica Persano | April 2025
+Replication code and data for "The Determinants of Policy Representation: Evaluating the Role of Policy Type in the U.S. States" (solo-authored senior honors thesis, UCLA Department of Political Science, Apr 2025).
 
 ---
 
